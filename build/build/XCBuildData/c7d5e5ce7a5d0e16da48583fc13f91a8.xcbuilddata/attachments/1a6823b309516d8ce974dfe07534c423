@@ -1,0 +1,19 @@
+#!/bin/sh
+set -e
+if test "$CONFIGURATION" = "Debug"; then :
+  cd /Users/ryanbowz/Documents/xcode/CSCE689/glfw-3.3.8/debug
+  /Applications/CMake.app/Contents/bin/cmake -P /Users/ryanbowz/Documents/xcode/CSCE689/glfw-3.3.8/debug/cmake_uninstall.cmake
+fi
+if test "$CONFIGURATION" = "Release"; then :
+  cd /Users/ryanbowz/Documents/xcode/CSCE689/glfw-3.3.8/debug
+  /Applications/CMake.app/Contents/bin/cmake -P /Users/ryanbowz/Documents/xcode/CSCE689/glfw-3.3.8/debug/cmake_uninstall.cmake
+fi
+if test "$CONFIGURATION" = "MinSizeRel"; then :
+  cd /Users/ryanbowz/Documents/xcode/CSCE689/glfw-3.3.8/debug
+  /Applications/CMake.app/Contents/bin/cmake -P /Users/ryanbowz/Documents/xcode/CSCE689/glfw-3.3.8/debug/cmake_uninstall.cmake
+fi
+if test "$CONFIGURATION" = "RelWithDebInfo"; then :
+  cd /Users/ryanbowz/Documents/xcode/CSCE689/glfw-3.3.8/debug
+  /Applications/CMake.app/Contents/bin/cmake -P /Users/ryanbowz/Documents/xcode/CSCE689/glfw-3.3.8/debug/cmake_uninstall.cmake
+fi
+

@@ -1,0 +1,11 @@
+/Users/ryanbowz/Documents/xcode/CSCE689/A1/634005710/build/CMakeFiles/A1.dir
+/Users/ryanbowz/Documents/xcode/CSCE689/A1/634005710/build/CMakeFiles/install.dir
+/Users/ryanbowz/Documents/xcode/CSCE689/A1/634005710/build/CMakeFiles/ALL_BUILD.dir
+/Users/ryanbowz/Documents/xcode/CSCE689/A1/634005710/build/CMakeFiles/ZERO_CHECK.dir
+/Users/ryanbowz/Documents/xcode/CSCE689/glfw-3.3.8/debug/CMakeFiles/uninstall.dir
+/Users/ryanbowz/Documents/xcode/CSCE689/glfw-3.3.8/debug/CMakeFiles/install.dir
+/Users/ryanbowz/Documents/xcode/CSCE689/glfw-3.3.8/debug/CMakeFiles/ALL_BUILD.dir
+/Users/ryanbowz/Documents/xcode/CSCE689/glfw-3.3.8/debug/CMakeFiles/ZERO_CHECK.dir
+/Users/ryanbowz/Documents/xcode/CSCE689/glfw-3.3.8/debug/src/CMakeFiles/update_mappings.dir
+/Users/ryanbowz/Documents/xcode/CSCE689/glfw-3.3.8/debug/src/CMakeFiles/glfw.dir
+/Users/ryanbowz/Documents/xcode/CSCE689/glfw-3.3.8/debug/src/CMakeFiles/install.dir
